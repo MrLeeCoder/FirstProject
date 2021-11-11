@@ -1,5 +1,6 @@
+html, 
 body {
-    color: white
+    color: white;
 }
 
 #hero {
@@ -49,9 +50,6 @@ body {
     padding: .5em;
 }
 
-body{
-    color:white
-}
 #hero {
     min-height: 100vh;
     background: #141E30;
